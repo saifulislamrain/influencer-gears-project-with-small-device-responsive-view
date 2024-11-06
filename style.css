@@ -180,7 +180,7 @@ font-weight: bold;
     margin-top: 5px;
 }
 .feature-description>p{
-    font-size: 1.25rem;
+    font-size: 1rem;
     color: var(--secondary-text-color);
     margin-bottom: 22px;
     font-weight: 700;
